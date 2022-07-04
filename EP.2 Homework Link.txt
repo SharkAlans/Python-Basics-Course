@@ -1,0 +1,1 @@
+The link to the python basics course is: https://github.com/SharkAlans/Python-Basics-Course
